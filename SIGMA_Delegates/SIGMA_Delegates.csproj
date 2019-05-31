@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlphaNumbericCollector.cs" />
+    <Compile Include="Collector.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringCollector.cs" />
+    <Compile Include="StringReceiver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
